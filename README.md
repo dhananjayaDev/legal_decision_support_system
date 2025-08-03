@@ -59,5 +59,3 @@ MIT License.
 - Built using LangChain, Hugging Face, Chroma, and Streamlit.
 - Inspired by the legal decision support system notebook.
 ```
-
-Save this content in a file named `README.md` in your `legal_dss_app` directory. Adjust the GitHub URL (`https://github.com/dhananjayaDev/legal_decision_support_system.git`) with your actual repository URL, and add a license if desired.
