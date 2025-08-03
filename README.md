@@ -1,4 +1,3 @@
-```markdown
 # Legal Decision Support System
 
 This is an AI-based Retrieval-Augmented Generation (RAG) application designed to answer questions about the Sri Lankan Constitution. The app uses a combination of natural language processing and document retrieval to provide insights based on the `constitution.pdf` file.
@@ -58,4 +57,4 @@ MIT License.
 ## Acknowledgments
 - Built using LangChain, Hugging Face, Chroma, and Streamlit.
 - Inspired by the legal decision support system notebook.
-```
+
