@@ -1,6 +1,6 @@
 # Legal Decision Support System
 
-![Banner](https://github.com/dhananjayaDev/legal_decision_support_system/blob/master/legal_DSS.png)
+![Banner](https://github.com/dhananjayaDev/legal_decision_support_system/blob/master/legal_DSS_01.png)
 
 This is an AI-based Retrieval-Augmented Generation (RAG) application designed to answer questions about the Sri Lankan Constitution. The app uses a combination of natural language processing and document retrieval to provide insights based on the `constitution.pdf` file.
 
