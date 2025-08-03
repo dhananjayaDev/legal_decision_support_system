@@ -52,7 +52,7 @@ legal_dss_app/
 Feel free to fork this repository, make improvements, and submit pull requests. Issues and suggestions are welcome!
 
 ## License
-MIT License.
+[https://github.com/dhananjayaDev/legal_decision_support_system?tab=MIT-1-ov-file#readme]MIT License.
 
 ## Acknowledgments
 - Built using LangChain, Hugging Face, Chroma, and Streamlit.
